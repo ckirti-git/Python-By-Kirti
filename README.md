@@ -1,2 +1,8 @@
-# Python-By-Kirti
-Welcome! This repository contains my personal collection of solved Python programming problems, categorized by topics. These solutions cover basic to advanced concepts and are aimed to help with coding interviews, academic practice, and sharpening problem-solving skills.
+# Python-By-Kirti 🐍
+
+This repository contains categorized and solved Python programming questions for learning, interview prep, and mastering core concepts.
+
+## 📚 Topics Covered
+
+- [Arrays & Lists](./'Arrays & Lists'/README.md)
+
