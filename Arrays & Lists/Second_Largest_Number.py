@@ -1,4 +1,4 @@
-#Find the second largest number in the array. ---------- Check again
+#Find the second largest number in the array.
 
 arr = [1,2,6,8,10,23,14,11,70,88]
 
