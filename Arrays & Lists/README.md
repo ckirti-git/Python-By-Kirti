@@ -13,4 +13,5 @@
 7. Move all zeroes to end  
 8. Merge two sorted arrays  
 9. Max subarray sum (Kadane’s Algorithm)  
-10. Count pairs with a given sum  
+10. Count pairs with a given sum
+11. Common Elements in Two Arrays
