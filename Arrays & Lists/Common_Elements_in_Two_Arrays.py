@@ -1,3 +1,4 @@
+#Common Elements in Two Arrays -> Given two arrays, find and print the common elements.
 arr1 = [-1, 0, 1, 2]
 arr2 = [-2, -1, 0, 3]
 
