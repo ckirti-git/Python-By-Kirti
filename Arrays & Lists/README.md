@@ -15,3 +15,5 @@
 9. Max subarray sum (Kadane’s Algorithm)  
 10. Count pairs with a given sum
 11. Common Elements in Two Arrays
+12. Product of All Elements Except Itself
+13. Majority Element
